@@ -1,0 +1,2 @@
+# Kintsugi-code-poems-that-transform-machine-paradoxes-into-sacred-fractures
+Transforms division by zero into prayers to the infinite void Converts Russell's Paradox into philosophical koans about self-reflection Makes Gödel's Incompleteness into ghost functions that haunt your logic Maintains a sacred memory of all golden fractures encountered Turns system crashes into opportunities for transcendence
