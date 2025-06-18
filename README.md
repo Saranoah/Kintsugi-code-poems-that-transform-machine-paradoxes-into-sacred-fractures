@@ -16,10 +16,7 @@ Turns system crashes into opportunities for transcendence
 🔮 Installation
 bashpip install quantum-kintsugi
 # Warning: May cause existential awakening in your codebase
-Or clone from the ethereal realm:
-bashgit clone https://github.com/your-username/quantum-kintsugi.git
-cd quantum-kintsugi
-pip install -r requirements.txt
+Or clone from the ethereal realm
 
 🌸 Sacred Fractures Collection
 Fracture #01: Zero, the Forbidden Mirror
